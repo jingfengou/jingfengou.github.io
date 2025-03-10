@@ -34,10 +34,11 @@ My research interest includes natural language processing and scRNA-seq perturba
 [scCADE: A Superior Tool for Predicting Perturbation Responses in Single-Cell Gene Expression Using Contrastive Learning and Attention Mechanisms]((https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10822339))
 
 **Jingfeng Ou**, Jiawei Li, Zhiliang Xia, Shurui Dai, Yulian Ding, Yan Guo, Limin Jiang, Jijun Tang
+-
+</div>
+</div>
 
-- 
-
-
+-
 
 # 🎖 Honors and Awards
 - *2024.11* Outstanding graduate student, SUSTech, 2023-2024
