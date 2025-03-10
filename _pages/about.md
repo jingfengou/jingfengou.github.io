@@ -20,12 +20,11 @@ redirect_from:
 
 
 My research interest includes natural language processing and scRNA-seq perturbation prediction. 
-<div style="display:none">I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).</div>
+
 
 
 # 🔥 News
-- <div style="display:none">*2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. </div>
+-
 
 # 📝 Publications 
 
@@ -37,11 +36,11 @@ My research interest includes natural language processing and scRNA-seq perturba
 **Jingfeng Ou**, Jiawei Li, Zhiliang Xia, Shurui Dai, Yulian Ding, Yan Guo, Limin Jiang, Jijun Tang
 
 <div style="display:none">[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- %Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. %
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
 
 # 🎖 Honors and Awards
 - *2024.11* Outstanding graduate student, SUSTech, 2023-2024
@@ -53,9 +52,8 @@ My research interest includes natural language processing and scRNA-seq perturba
 
 
 # 💬 Invited Talks
-<div style="display:none">- *2015.06*, B.S. in Thermal and dynamic engineering - Guangxi University, Nanning, China 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-</div>
+-
+
 
 # 💻 Internships
-<div style="display:none">- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.</div>
+-
