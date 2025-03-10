@@ -28,7 +28,7 @@ My research interest includes natural language processing and scRNA-seq perturba
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2024</div><img src='images/scCADE-flow.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2024</div><img src='images/scCADE-flow.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [scCADE: A Superior Tool for Predicting Perturbation Responses in Single-Cell Gene Expression Using Contrastive Learning and Attention Mechanisms]((https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10822339))
