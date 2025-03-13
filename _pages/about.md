@@ -41,7 +41,7 @@ My research interest includes natural language processing and scRNA-seq perturba
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Bone research</div><img src='images/OA-flow.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[scCADE: A Superior Tool for Predicting Perturbation Responses in Single-Cell Gene Expression Using Contrastive Learning and Attention Mechanisms]
+[Advancing Osteoarthritis Research: The Role of AI in Clinical, Imaging and Omics Fields]
 
 **J. Ou**, J. ZHANG, M. Alswadeh, Zh. Zhu, J. Tang*, H. Sang*,  K. Lu*
 
