@@ -67,3 +67,9 @@ My research interest includes natural language processing and scRNA-seq perturba
 
 # 💻 Internships
 -
+
+
+# 📄 Curriculum Vitae
+
+You can download my CV here: [Download CV](data/cv.pdf)
+
