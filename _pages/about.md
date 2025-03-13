@@ -33,12 +33,20 @@ My research interest includes natural language processing and scRNA-seq perturba
 
 [scCADE: A Superior Tool for Predicting Perturbation Responses in Single-Cell Gene Expression Using Contrastive Learning and Attention Mechanisms](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10822339)
 
-**Jingfeng Ou**, Jiawei Li, Zhiliang Xia, Shurui Dai, Yulian Ding, Yan Guo, Limin Jiang, Jijun Tang
--
+**J. Ou**, J. Li, Zh. Xia, Sh. Dai, Y. Ding, Y. Guo, L. Jiang, J. Tang*
+
 </div>
 </div>
 
--
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Bone research</div><img src='images/OA-flow.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[scCADE: A Superior Tool for Predicting Perturbation Responses in Single-Cell Gene Expression Using Contrastive Learning and Attention Mechanisms]
+
+**J. Ou**, J. ZHANG, M. Alswadeh, Zh. Zhu, J. Tang*, H. Sang*,  K. Lu*
+
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2024.11* Outstanding graduate student, SUSTech, 2023-2024
