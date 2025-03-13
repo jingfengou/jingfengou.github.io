@@ -32,7 +32,7 @@ My research interest includes natural language processing and scRNA-seq perturba
 <div class='paper-box-text' markdown="1">
 
 [scCADE: A Superior Tool for Predicting Perturbation Responses in Single-Cell Gene Expression Using Contrastive Learning and Attention Mechanisms](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10822339)
-
+-In 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), pp. 441-444. IEEE, 2024.
 **J. Ou**, J. Li, Zh. Xia, Sh. Dai, Y. Ding, Y. Guo, L. Jiang, J. Tang*
 
 </div>
@@ -42,7 +42,7 @@ My research interest includes natural language processing and scRNA-seq perturba
 <div class='paper-box-text' markdown="1">
 
 [Advancing Osteoarthritis Research: The Role of AI in Clinical, Imaging and Omics Fields]
-
+-Bone research(Accepted at 2025/03/04)
 **J. Ou**, J. ZHANG, M. Alswadeh, Zh. Zhu, J. Tang*, H. Sang*,  K. Lu*
 
 </div>
