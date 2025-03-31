@@ -35,7 +35,7 @@ My research interest includes natural language processing and scRNA-seq perturba
 
 -Expert Systems with Applications(Accepted at 2025/03/31)
 
-**J. Ou**, J. Li, Zh. Xia, Sh. Dai, Y. Ding, Y. Guo, L. Jiang, J. Tang*
+**J. Ou**, J. Li, Zh. Xia, Sh. Dai, Y. Guo, L. Jiang, J. Tang*
 
 </div>
 </div>
