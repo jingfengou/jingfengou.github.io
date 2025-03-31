@@ -28,12 +28,12 @@ My research interest includes natural language processing and scRNA-seq perturba
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2024</div><img src='images/scCADE-flow.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Expert Systems with Applications</div><img src='images/RFAE-model.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[scCADE: A Superior Tool for Predicting Perturbation Responses in Single-Cell Gene Expression Using Contrastive Learning and Attention Mechanisms](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10822339)
+[RFAE: a high-robust feature selector based on fractal autoencoder]
 
--In 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), pp. 441-444. IEEE, 2024.
+-Expert Systems with Applications(Accepted at 2025/03/31)
 
 **J. Ou**, J. Li, Zh. Xia, Sh. Dai, Y. Ding, Y. Guo, L. Jiang, J. Tang*
 
@@ -52,12 +52,13 @@ My research interest includes natural language processing and scRNA-seq perturba
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Expert Systems with Applications</div><img src='images/RFAE-model.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2024</div><img src='images/scCADE-flow.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[RFAE: a high-robust feature selector based on fractal autoencoder]
+[scCADE: A Superior Tool for Predicting Perturbation Responses in Single-Cell Gene Expression Using Contrastive Learning and Attention Mechanisms](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10822339)
 
--Expert Systems with Applications(Accepted at 2025/03/31)
+-In 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), pp. 441-444. IEEE, 2024.
 
 **J. Ou**, J. Li, Zh. Xia, Sh. Dai, Y. Ding, Y. Guo, L. Jiang, J. Tang*
 
