@@ -52,6 +52,18 @@ My research interest includes natural language processing and scRNA-seq perturba
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Expert Systems with Applications</div><img src='images/RFAE-model.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RFAE: a high-robust feature selector based on fractal autoencoder]
+
+-Expert Systems with Applications(Accepted at 2025/03/31)
+
+**J. Ou**, J. Li, Zh. Xia, Sh. Dai, Y. Ding, Y. Guo, L. Jiang, J. Tang*
+
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2024.11* Outstanding graduate student, SUSTech, 2023-2024
 
