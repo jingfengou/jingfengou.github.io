@@ -19,7 +19,7 @@ redirect_from:
 
 
 
-My research interest includes natural language processing and scRNA-seq perturbation prediction. 
+My name is Jingfeng Ou, a third-year master’s student at the Southern University of Science and Technology. My research interests include data analysis, natural language processing, and scRNA-seq perturbation prediction, with a particular focus on the integration of advanced computational methods in biological contexts. Recently, I have been investigating controllable generation techniques in the image domain, with the aim of integrating them into perturbation prediction tasks to enhance model interpretability and performance.
 
 
 
