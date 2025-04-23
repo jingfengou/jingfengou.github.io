@@ -43,7 +43,7 @@ My name is Jingfeng Ou, a third-year master’s student at the Southern Universi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Bone research</div><img src='images/OA-flow.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Advancing Osteoarthritis Research: The Role of AI in Clinical, Imaging and Omics Fields]
+[Advancing Osteoarthritis Research: The Role of AI in Clinical, Imaging and Omics Fields](https://www.nature.com/articles/s41413-025-00423-2)
 
 -Bone research(Accepted at 2025/03/04)
 
