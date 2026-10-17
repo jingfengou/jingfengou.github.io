@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jingfeng Ou - Homepage"
-description              : ""
+title                    : "Jingfeng Ou"
+description              : "Spatial reasoning and physics-grounded video generation."
 repository               : "jingfengou/jingfengou.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,11 +23,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jingfeng Ou"
   avatar           : "images/avatar.jpg"
-  bio              : "Southern University of Science and Technology, Shenzhen Institute of Advanced Technology，Chinese Academy of Sciences"
-  location         : "Shenzhen, China"
+  bio              : "Ph.D. Student at Nanjing University"
+  location         : "China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=d0MFH6oAAAAJ&hl=en&authuser=1&oi=ao"
+  googlescholar    : "https://scholar.google.com/citations?user=d0MFH6oAAAAJ&hl=en"
   email            : "jfou2023@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "github jingfengou"
+  github           : "jingfengou"
   google_plus      :
   keybase          :
   instagram        :
